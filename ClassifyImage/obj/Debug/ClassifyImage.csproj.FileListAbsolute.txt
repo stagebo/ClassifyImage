@@ -1,0 +1,12 @@
+D:\VSworkspace\ClassifyImage\ClassifyImage\bin\Debug\ClassifyImage.exe.config
+D:\VSworkspace\ClassifyImage\ClassifyImage\bin\Debug\ClassifyImage.exe
+D:\VSworkspace\ClassifyImage\ClassifyImage\bin\Debug\ClassifyImage.pdb
+D:\VSworkspace\ClassifyImage\ClassifyImage\obj\Debug\ClassifyImage.csprojResolveAssemblyReference.cache
+D:\VSworkspace\ClassifyImage\ClassifyImage\obj\Debug\ClassifyImage.Form1.resources
+D:\VSworkspace\ClassifyImage\ClassifyImage\obj\Debug\ClassifyImage.Properties.Resources.resources
+D:\VSworkspace\ClassifyImage\ClassifyImage\obj\Debug\ClassifyImage.csproj.GenerateResource.Cache
+D:\VSworkspace\ClassifyImage\ClassifyImage\obj\Debug\ClassifyImage.csproj.CoreCompileInputs.cache
+D:\VSworkspace\ClassifyImage\ClassifyImage\obj\Debug\ClassifyImage.exe
+D:\VSworkspace\ClassifyImage\ClassifyImage\obj\Debug\ClassifyImage.pdb
+D:\VSworkspace\ClassifyImage\ClassifyImage\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\VSworkspace\ClassifyImage\ClassifyImage\bin\Debug\Newtonsoft.Json.dll
